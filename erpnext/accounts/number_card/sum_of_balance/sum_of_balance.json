@@ -1,0 +1,22 @@
+{
+ "creation": "2023-03-08 11:38:14.324754",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "filters_json": "{\"company\":\"Terra\",\"from_date\":\"2023-01-01\",\"to_date\":\"2023-03-08\",\"account\":[],\"party_type\":\"Customer\",\"party\":[\"A-Cubed\"],\"party_name\":\"A-Cubed\",\"group_by\":\"Group by Voucher (Consolidated)\",\"cost_center\":[],\"project\":[],\"include_dimensions\":1}",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "label": "Sum of Balance",
+ "modified": "2023-03-08 11:38:14.473182",
+ "modified_by": "ehab@terra-egypt.com",
+ "module": "Accounts",
+ "name": "Sum of Balance",
+ "owner": "ehab@terra-egypt.com",
+ "report_field": "balance",
+ "report_function": "Sum",
+ "report_name": "General Ledger",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Daily",
+ "type": "Report"
+}

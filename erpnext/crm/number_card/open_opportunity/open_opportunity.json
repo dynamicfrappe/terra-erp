@@ -1,0 +1,21 @@
+{
+ "creation": "2020-07-20 20:17:15.948113",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "document_type": "Opportunity",
+ "dynamic_filters_json": "[[\"Opportunity\",\"company\",\"=\",\"frappe.defaults.get_user_default(\\\"Company\\\")\"],[\"Opportunity\",\"status\",\"=\",\"frappe.defaults.get_user_default(\\\"Open\\\")\"]]",
+ "filters_json": "[]",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "label": "Open Opportunity",
+ "modified": "2023-08-27 13:53:30.942048",
+ "modified_by": "taher.mostafa@terra-egypt.com",
+ "module": "CRM",
+ "name": "Open Opportunity",
+ "owner": "Administrator",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Monthly",
+ "type": "Document Type"
+}

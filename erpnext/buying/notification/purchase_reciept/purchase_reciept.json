@@ -1,0 +1,29 @@
+{
+ "attach_print": 0,
+ "channel": "System Notification",
+ "creation": "2024-03-12 14:13:38.493599",
+ "days_in_advance": 0,
+ "docstatus": 0,
+ "doctype": "Notification",
+ "document_type": "Purchase Receipt",
+ "enabled": 1,
+ "event": "Submit",
+ "idx": 0,
+ "is_standard": 1,
+ "message": "Add your message here",
+ "modified": "2024-04-28 14:03:52.224044",
+ "modified_by": "hazem.kabiel@terra-egypt.com",
+ "module": "Buying",
+ "name": "purchase reciept",
+ "owner": "hazem.kabiel@terra-egypt.com",
+ "recipients": [
+  {
+   "cc": "logistics@terra-egypt.com",
+   "receiver_by_document_field": "",
+   "receiver_by_role": "logistic"
+  }
+ ],
+ "send_system_notification": 0,
+ "send_to_all_assignees": 0,
+ "subject": "purchase reciept"
+}
